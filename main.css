@@ -1,6 +1,6 @@
 body{
-    background: lightblue;
-    text-transform: capitalize;
+    background: rgb(105, 182, 208);
+    text-transform: uppercase;
     text-align: center;
     text-decoration: underline;
 }
